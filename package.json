@@ -1,0 +1,23 @@
+{
+  "name": "sails-hook-exceptor",
+  "version": "0.0.1",
+  "description": "Smart exception responses both in development and producion",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "sails",
+    "exception",
+    "exceptor",
+    "production"
+  ],
+  "author": "Can Tecim <can.tecim@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "sails": "^0.12.3"
+  },
+  "sails": {
+    "isHook": true
+  }
+}
