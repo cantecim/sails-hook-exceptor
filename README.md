@@ -1,0 +1,1 @@
+Smart exception responses both in development and production
